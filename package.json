@@ -1,0 +1,23 @@
+{
+	"name": "invoice-generator",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "npx tailwindcss -i tailwind.css -o style.css --watch"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/devendran-odin/Invoice-generator.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/devendran-odin/Invoice-generator/issues"
+	},
+	"homepage": "https://github.com/devendran-odin/Invoice-generator#readme",
+	"devDependencies": {
+		"tailwindcss": "^3.3.3"
+	}
+}
